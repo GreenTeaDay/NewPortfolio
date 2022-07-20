@@ -1,7 +1,7 @@
 
 import './App.css';
 import { Navbar} from './components';
-import { Body } from './containers/index.ja';
+import { Body } from './containers/index.js';
 
 const App = () => (
   <div className="App">
